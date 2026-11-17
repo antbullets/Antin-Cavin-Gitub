@@ -14,7 +14,7 @@ window.PROFILE = {
     accent: "#FFFFFF"   // highlights on dark sections: buttons, labels, borders
   },
 
-  name: "[Your Full Name]",
+  name: "[Antin Cavin]",
   title: "[Target Job Title] | [Niche]",
   location: "[City, State]",
   tagline: "",                      // optional: one sentence under your title. Empty hides it.
@@ -37,12 +37,12 @@ window.PROFILE = {
   // "lane", "tools" and "result" are optional. Delete a line you have nothing real for.
   projects: [
     {
-      name: "[Lab Title]",
+      name: "[Information Security Fundamentals]",
       lane: "",
       summary: "[One or two sentences: what you built or wrote, and what it covers.]",
       tools: ["[Tool(s) you used]"],
       files: [
-        { label: "[Lab Report]", url: "https://[your-google-drive-or-onedrive-link]" }
+        { label: "[Lab Report]", url: "https://[https://studentschattahoocheetech-my.sharepoint.com/:w:/g/personal/acavin1_students_chattahoocheetech_edu/IQCrC9SOC-79QoaF8jPqVAjrAV2N12zlYzUcoTSHUc7GvGM?e=odGtub]" }
       ]
     }
   ],
