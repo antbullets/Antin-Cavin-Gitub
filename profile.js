@@ -42,7 +42,9 @@ window.PROFILE = {
       summary: "[One or two sentences: what you built or wrote, and what it covers.]",
       tools: ["[Tool(s) you used]"],
       files: [
-        { label: "[Lab Report]", url: "https://[https://studentschattahoocheetech-my.sharepoint.com/:w:/g/personal/acavin1_students_chattahoocheetech_edu/IQCrC9SOC-79QoaF8jPqVAjrAV2N12zlYzUcoTSHUc7GvGM?e=odGtub]" }
+        {
+          "label": "Lab Report", 
+          "url: "https://[https://studentschattahoocheetech-my.sharepoint.com/:w:/g/personal/acavin1_students_chattahoocheetech_edu/IQCrC9SOC-79QoaF8jPqVAjrAV2N12zlYzUcoTSHUc7GvGM?e=odGtub]"
       ]
     }
   ],
