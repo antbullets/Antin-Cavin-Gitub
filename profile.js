@@ -31,7 +31,7 @@ window.PROFILE = {
       "files": [
         {
           "label": "Lab Reports",
-          "url": "https://studentschattahoocheetech-my.sharepoint.com/:f:/g/personal/acavin1_students_chattahoocheetech_edu/IgCRELutImzTT5aSzE46F_rzAVnM6DwSHlrZ6au30BLqz5Y?e=vUwqBP"
+          "url": "https://studentschattahoocheetech-my.sharepoint.com/:f:/g/personal/acavin1_students_chattahoocheetech_edu/IgCRELutImzTT5aSzE46F_rzAVnM6DwSHlrZ6au30BLqz5Y?e=dXPzQt"
         }
       ]
     },
