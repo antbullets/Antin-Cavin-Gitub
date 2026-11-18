@@ -9,7 +9,7 @@ window.PROFILE = {
     "soft": "#F2F3F5",
     "accent": "#DDDE34"
   },
-  "name": "Tony Evans",
+  "name": "Antin Cavin",
   "title": "Cybersecurity Instructor | GRC | Security Awareness | CRISC",
   "location": "Lithonia, GA",
   "tagline": "I teach and mentor the next generation of cybersecurity professionals while managing Governance, Risk, and Compliance (GRC) initiatives, including security awareness programs, Data Loss Prevention (DLP) monitoring, and third-party vendor risk assessments.",
