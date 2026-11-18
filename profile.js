@@ -31,7 +31,7 @@ window.PROFILE = {
       "files": [
         {
           "label": "Lab Reports",
-          "url": "https://studentschattahoocheetech-my.sharepoint.com/:w:/g/personal/acavin1_students_chattahoocheetech_edu/IQCrC9SOC-79QoaF8jPqVAjrAaYFiyok41Y-iJd7IxN1CvI?e=kg6MSL"
+          "url": "https://studentschattahoocheetech-my.sharepoint.com/my?id=%2Fpersonal%2Facavin1%5Fstudents%5Fchattahoocheetech%5Fedu%2FDocuments%2FInformation%20Security%20Fundamentals&viewid=f05577d4%2D9c73%2D4406%2Dbe35%2D3acb83b362adL"
         }
       ]
     },
